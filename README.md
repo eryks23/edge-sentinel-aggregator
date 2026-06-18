@@ -20,7 +20,7 @@
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact / Author](#contact--author)
+- [Author](#author)
 
 ---
 
@@ -317,8 +317,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for the full text.
 
 ---
 
-## Contact / Author
+## Author
 
-**[DO UZUPEŁNIENIA: Imię i nazwisko / pseudonim autora]**  
 GitHub: [@eryks23](https://github.com/eryks23)  
 Repository: [https://github.com/eryks23/edge-sentinel-aggregator](https://github.com/eryks23/edge-sentinel-aggregator)

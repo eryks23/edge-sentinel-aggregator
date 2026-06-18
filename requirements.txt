@@ -1,0 +1,7 @@
+# edge-sentinel-aggregator
+# No external dependencies — standard library only.
+# Requires Python 3.7+
+#
+# To add transport backends uncomment as needed:
+# requests>=2.31.0        # HTTP transport for send_to_cloud()
+# paho-mqtt>=1.6.1        # MQTT transport for send_to_cloud()
